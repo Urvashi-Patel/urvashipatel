@@ -549,7 +549,7 @@
 		}
 
 			.image.avatar:before {
-				display: none;
+				display: "images/Urvashi.jpg";
 			}
 
 			.image.avatar img {
